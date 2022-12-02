@@ -10,7 +10,7 @@ const DetailsScreen = require("./screens/DetailsScreen");
 const Menu = createDrawerNavigator();
 
 export default function App() {
-  return (
+  return ( 
     <NavigationContainer>
       <Menu.Navigator
         screenOptions={{
